@@ -1,3 +1,3 @@
 # Android-Automate
-[[Readme/EN|English - English (EN)]]
-[[Readme/RU|Русский - Russian (RU)]]
+[English - English (EN)](/Readme/EN.md)
+[Русский - Russian (RU)](/Readme/RU.md)
