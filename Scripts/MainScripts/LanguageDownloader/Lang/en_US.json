@@ -1,0 +1,16 @@
+{
+    "install.menu.title": "Installing languages",
+    "install.message.close": "Close",
+    "install.message.complete": "Successfully installed languages for %i_c",
+    "install.message.error": "\nLanguages not installed for %i_e",
+    "install.message.title": "Installation is complete",
+    "install.notification": "Downloading and installing languages\n",
+    "menu.main.1": "📥 Download missing languages",
+    "menu.main.2": "🔄 Update all languages",
+    "scan.notification": "Scanning scripts",
+    "update.notification": "Removing old languages",
+    "update.warn.no": "❌ Cancel",
+    "update.warn.text": "When updating all languages, all folders of existing languages with all the contents will be deleted!\nIf you manually translated a script, make a backup copy of its language file to another folder that is not located in the %d folder",
+    "update.warn.title": "⚠️ Warning",
+    "update.warn.yes": "🔄 Update"
+}
