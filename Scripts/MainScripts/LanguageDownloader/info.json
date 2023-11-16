@@ -1,1 +1,6 @@
-{"name":"LanguageDownloader","lang_url":""}
+{
+  "name":"LanguageDownloader",
+  "developer":"MainScripts",
+  "version":2,
+  "lang_url":""
+}
