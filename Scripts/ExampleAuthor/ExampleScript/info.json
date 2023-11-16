@@ -1,0 +1,9 @@
+{
+  "name": "ExampleScript",
+  "version": 1,
+  "developer": "ExampleAuthor",
+  "download": "https://raw.githubusercontent.com/MainPlay-YT/Android-Automate/master/Scripts/ExampleAuthor/ExampleScript/Releases/!Latest/Example.flo",
+  "web_info": "https://raw.githubusercontent.com/MainPlay-YT/Android-Automate/master/Scripts/ExampleAuthor/ExampleScript/info.json",
+  "core_version": 2,
+  "lang_url": "https://raw.githubusercontent.com/MainPlay-YT/Android-Automate/master/Scripts/ExampleAuthor/ExampleScript/Lang/%mcfg_lang.json"
+}

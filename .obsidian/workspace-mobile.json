@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme/RU.md",
+                "file": "Scripts/MainScripts/LanguageDownloader/Readme/RU.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,14 +85,14 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Readme/RU.md",
+            "file": "Scripts/MainScripts/LanguageDownloader/Readme/RU.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
             "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+            "unlinkedCollapsed": false
           }
         }
       },
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Readme/RU.md",
+            "file": "Scripts/MainScripts/LanguageDownloader/Readme/RU.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,12 +114,12 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Readme/RU.md"
+            "file": "Scripts/MainScripts/LanguageDownloader/Readme/RU.md"
           }
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -133,12 +133,20 @@
   },
   "active": "421a0a234bcc6296",
   "lastOpenFiles": [
-    "Scripts/ExampleAuthor.md",
-    "Readme/RU.md",
-    "().md",
-    "Readme.md",
-    "Readme/EN.md",
+    "Scripts/MainScripts/Core/Readme/RU.md",
+    "Scripts/MainScripts/readme.RU.md",
     "Scripts/ExampleAuthor/readme.RU.md",
+    "Scripts/ExampleAuthor/ExampleScript/Readme/RU.md",
+    "Scripts/MainScripts/Settings/Readme/RU.md",
+    "Scripts/ExampleAuthor/ExampleScript/Readme/EN.md",
+    "Scripts/MainScripts/LanguageDownloader/Readme/RU.md",
+    "Scripts/MainScripts/Settings",
+    "Scripts/MainScripts/Settings/Readme",
+    "Readme/RU.md",
+    "Readme.md",
+    "Scripts/ExampleAuthor.md",
+    "().md",
+    "Readme/EN.md",
     "Scripts/ExampleAuthor/ExampleScript/Readme.md"
   ]
 }

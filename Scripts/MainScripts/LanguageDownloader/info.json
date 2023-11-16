@@ -1,1 +1,9 @@
-{"name":"LanguageDownloader","developer":"MainScripts","version":2,"lang_url":""}
+{
+  "name": "LanguageDownloader",
+  "version": 1,
+  "developer": "MainScripts",
+  "download": "https://raw.githubusercontent.com/MainPlay-YT/Android-Automate/master/Scripts/MainScripts/LanguageDownloader/Releases/!Latest/LanguageDownloader.flo",
+  "web_info": "https://raw.githubusercontent.com/MainPlay-YT/Android-Automate/master/Scripts/MainScripts/LanguageDownloader/info.json",
+  "core_version": 2,
+  "lang_url": "https://raw.githubusercontent.com/MainPlay-YT/Android-Automate/master/Scripts/MainScripts/LanguageDownloader/Lang/%mcfg_lang.json"
+}
